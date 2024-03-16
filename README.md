@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smolgal154
-- 👀 I’m interested in leanring to code and create automation
-- 🌱 I’m currently learning python, I'll be starting on C soon
-- 💞️ I’m looking to pick-up the skills as fast as possible
+- 👀 I’m interested in learning to code and create task specific automation
+- 🌱 I hope to learn C & python
+- 💞️ I’m looking to pick-up the skills
 - 📫 How to reach me ... message me~
 
 <!---
